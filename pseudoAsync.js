@@ -9,9 +9,9 @@
 
 
 //const variabel = try to await fetch
-//om response inte är -> fånga error
+    //om response inte är -> fånga error
     //await -> gör om till json
-
-//byt innerHTML till skämtet från json
+    //byt innerHTML till skämtet från json
+//catch eventuella error förutom HTTP-errors
 
 //}
